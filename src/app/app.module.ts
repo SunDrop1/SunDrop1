@@ -70,6 +70,7 @@ import { ButtonDetailC1RendererComponent } from './admin/button-detail-c1-render
 import { EditCompetitionFormComponent } from './admin/edit-competition-form/edit-competition-form.component';
 import { CompetitionHistoryComponent } from './admin/competition-history/competition-history.component';
 import { ButtonDetailC2RendererComponent } from './admin/button-detail-c2-renderer/button-detail-c2-renderer.component';
+import { TableScoreComponent } from './admin/table-score/table-score.component';
 
 
 
@@ -120,6 +121,7 @@ import { ButtonDetailC2RendererComponent } from './admin/button-detail-c2-render
        EditCompetitionFormComponent,
        CompetitionHistoryComponent,
        ButtonDetailC2RendererComponent,
+       TableScoreComponent,
     
   
    
